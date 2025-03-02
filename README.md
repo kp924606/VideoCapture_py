@@ -61,12 +61,10 @@ VideoCapture/攝影機,拍照,錄影
 
 Please refer the file as below.
 
-1.VideoCapture.py
-開啟鏡頭並拍照
-
-2.ViedoRecorder.py
-開啟鏡頭並錄製
-
+| **Item** | **py** | **功能** |
+|----------|--------------|-------------|
+| **1** | **VideoCapture.py** | 開啟鏡頭並拍照及存檔 |
+| **2** | **ViedoRecorder.py**| 開啟鏡頭並錄製及存檔 |
 
 ------
 
